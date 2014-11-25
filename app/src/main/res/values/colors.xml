@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <item name="lightblue" type="color">#39add1</item>
+    <item name="darkblue" type="color">#3079ab</item>
+    <item name="mauve" type="color">#c25975</item>
+    <item name="red" type="color">#e15258</item>
+    <item name="orange" type="color">#f9845b</item>
+    <item name="lavender" type="color">#838cc7</item>
+    <item name="purple" type="color">#7d669e</item>
+    <item name="aqua" type="color">#53bbb4</item>
+    <item name="green" type="color">#51b46d</item>
+    <item name="mustard" type="color">#51b46d</item>
+    <item name="darkgray" type="color">#51b46d</item>
+    <item name="pink" type="color">#f092b0</item>
+    <item name="lightgray" type="color">#b7c0c7</item>
+
+
+    <integer-array name="colors">
+        <item>@color/lightblue</item>
+        <item>@color/darkblue</item>
+        <item>@color/mauve</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/lavender</item>
+        <item>@color/purple</item>
+        <item>@color/aqua</item>
+        <item>@color/green</item>
+        <item>@color/mustard</item>
+        <item>@color/darkgray</item>
+        <item>@color/pink</item>
+        <item>@color/lightgray</item>
+    </integer-array>
+</resources>
